@@ -52,7 +52,6 @@ public class MySinkConnector extends SinkConnector {
 
     @Override
     public void stop() {
-        //TODO: Do things that are necessary to stop your connector.
     }
 
     @Override
