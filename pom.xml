@@ -11,7 +11,7 @@
 
     <properties>
         <kafka.version>2.2.0</kafka.version>
-        <guava.version>28.0-jre</guava.version>
+        <guava.version>29.0-jre</guava.version>
         <junit.version>4.12</junit.version>
     </properties>
 
